@@ -1,0 +1,11 @@
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\bin\Debug\KaizenSoft - APSES.exe.config
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\bin\Debug\KaizenSoft - APSES.exe
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\bin\Debug\KaizenSoft - APSES.pdb
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\bin\Debug\KaizenSoft - APSES.xml
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft - APSES.vbprojResolveAssemblyReference.cache
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft___APSES.a.resources
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft___APSES.Resources.resources
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft - APSES.vbproj.GenerateResource.Cache
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft - APSES.exe
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft - APSES.xml
+c:\users\albia\documents\visual studio 2015\Projects\KaizenSoft - APSES\KaizenSoft - APSES\obj\Debug\KaizenSoft - APSES.pdb
